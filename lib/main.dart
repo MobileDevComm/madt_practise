@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:madt_practice/MySecondApp.dart';
+
+import 'basketball_counter_app/score_counter_app.dart';
 
 void main() {
-  runApp(MySecondApp());
+  runApp(ScoreCounterApp());
 }
